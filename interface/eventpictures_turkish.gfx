@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "PILGRIMAGE_eventPicture"
+		texturefile = "gfx/event_pictures/PILGRIMAGE_eventPicture.dds"
+	}
+	
+}
